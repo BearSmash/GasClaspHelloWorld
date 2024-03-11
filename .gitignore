@@ -7,3 +7,6 @@ node_modules/
 # Compiled JavaScript files
 *.js
 *.js.map
+
+#IDE files and directories
+.idea/

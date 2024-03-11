@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# clasp credentials
+.clasp.json
+
+# Compiled JavaScript files
+*.js
+*.js.map
